@@ -4,9 +4,6 @@ public class Array{
 	int arr[]=new int[10];
 	int i,j,temp;
 	Scanner sc=new Scanner(System.in);
-	//System.out.println("Enter the size");
-	//5
-	int b=sc.nextInt();
 	System.out.println("Enter the numbers");;
 	for(i=0;i<6;i++)
 	{
